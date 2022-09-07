@@ -1,12 +1,10 @@
 # KPF-knapsack-problem-with-forfeits-
-The benchmark instances used in our draft titled with "An effective hybrid search method for the quadratic knapsack problem with conflict graphs" are created by Dr. Xiaochuan Shi (shixiaochuan@whu.edu.cn) and friendly provided by Dr. Isma Dahmani (dahmani.isma@gmail.com).
+The benchmark instances used in our draft titled with "A hybrid evolutionary search method for the knapsack problem with forfeits" were firstly introduced by Dr. Cerulli (raffaele@unisa.it) and friendly provided by Dr. Raiconi (araiconi@unisa.it).
 
-The source code of the proposed algorithm HSM will be publicly available soon.
+The source code of the proposed algorithm HESM will be publicly available soon.
 
-Reference papers to the quadratic knapsack problem with conflict graphs (QKPCG):
+Reference papers to the knapsack problem with forfeits (KPF):
 
-Shi, X., Wu, L., & Meng, X. (2017). A new optimization model for the sustainable development: Quadratic knapsack problem with conflict graphs. Sustainability, 9(2), 1-10.
+1. Cerulli, R., D'Ambrosio, C., Raiconi, A., \& Vitale, G. (2020). The Knapsack Problem with Forfeits. In: Ba\"{i}ou, M., Gendron, B., G\"{u}nl\"{u}k, O., \& Mahjoub, A. R. (Eds.), In International Symposium on Combinatorial Optimization, ISCO2020, Vol 12176 (pp. 263-272). Cham: Springer.
 
-Dahmani, I., & Hifi, M. (2021). A modified descent method-based heuristic for binary quadratic knapsack problems with conflict graphs. Annals of Operations Research, 298(1), 125-147.
-
-Dahmani, I., Hifi, M., Saadi, T., & Yousef, L. (2020). A swarm optimization-based search algorithm for the quadratic knapsack problem with conflict graphs. Expert Systems with Applications, 148, 113224.
+2. Capobianco, G., D'Ambrosio, C., Pavone, L., Raiconi, A., Vitale, G., \& Sebastiano, F. (2022). A hybrid metaheuristic for the Knapsack Problem with Forfeits. Soft Computing, 26(2), 749-762.
