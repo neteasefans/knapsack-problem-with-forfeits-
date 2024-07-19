@@ -1,5 +1,5 @@
 # KPF-knapsack-problem-with-forfeits-
-The benchmark instances used in our draft titled with "Adaptive feasible and infeasible evolutionary search for the knapsack problem with forfeits" were firstly introduced by Dr. Cerulli (raffaele@unisa.it) and friendly provided by Dr. Andera Raiconi (araiconi@unisa.it).
+The 120 benchmark instances used in our draft titled with "Adaptive feasible and infeasible evolutionary search for the knapsack problem with forfeits" were firstly introduced by Dr. Cerulli (raffaele@unisa.it) and friendly provided by Dr. Andera Raiconi (araiconi@unisa.it).
 
 The source code of the proposed HESM algorithm will be made available upon the publication of the paper.
 
