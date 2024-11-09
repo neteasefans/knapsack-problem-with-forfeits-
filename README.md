@@ -17,7 +17,25 @@ Reference papers to the knapsack problem with forfeits (KPF):
 
 6. D’Ambrosio, C., Laureana, F., Raiconi, A., & Vitale, G. (2023). The Knapsack Problem with forfeit sets. Computers & Operations Research, 151, 106093.
 
-To 
+** Instructions
+
+*** To compile:
+
+q.zhou$ make
+
+q.zhou$
+
+*** To run:
+
+q.zhou$ ./HESM_KPF ./instance_file ./output_stat_file ./output_sol_file seed 
+
+q.zhou$
+
+*** To clean
+
+q.zhou$ make clean
+
+q.zhou$
 
 
 
