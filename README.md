@@ -28,8 +28,10 @@ q.zhou$
 *** To run:
 
 q.zhou$ ./HESM_KPF ./instance_file ./output_stat_file ./output_sol_file seed 
+
 (where "instance_file is the instance name, output_stat_file is a file used to store the running information, output_sol_file stores the solution information,
 and seed is the random seed, such as 1, 2, ...")
+
 q.zhou$
 
 *** To clean
