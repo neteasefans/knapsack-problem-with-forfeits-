@@ -1,7 +1,7 @@
 # Adaptive feasible and infeasible evolutionary search for the knapsack problem with forfeits (KPF)
 The 120 benchmark instances used in our paper titled with "Adaptive feasible and infeasible evolutionary search for the knapsack problem with forfeits" were firstly introduced by Dr. Cerulli (raffaele@unisa.it) and friendly provided by Dr. Andera Raiconi (araiconi@unisa.it).  To facilitate the further research, we upload the instances here.
 
-The source code of the proposed HESM algorithm is also provided.
+The source code given in 'src' directory implements the proposed HESM method described in our paper.
 
 We made comparisons between HESM and some state-of-the-art methods from the following related KPF works::
 
