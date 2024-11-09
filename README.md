@@ -11,7 +11,7 @@ We made comparisons between HESM and some state-of-the-art methods from the foll
 
 3. D’Ambrosio, C., Laureana, F., Raiconi, A., & Vitale, G. (2023). The Knapsack Problem with forfeit sets. Computers & Operations Research, 151, 106093.
 
-** Instructions
+** Instructions to use the source code of HESM
 
 *** To compile:
 
